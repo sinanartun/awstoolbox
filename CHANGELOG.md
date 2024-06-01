@@ -6,6 +6,12 @@ All notable changes to the "cloudtoolbox" extension will be documented in this f
 
 ## [Unreleased]
 
+## [1.0.3] - 2024-06-01
+ 
+### Fixed
+
+- Github repository address
+
 ## [1.0.2] - 2024-06-01
  
 ### Fixed
