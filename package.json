@@ -2,14 +2,14 @@
   "name": "awstoolbox",
   "displayName": "AWS Toolbox",
   "description": "AWS Resource Visualization",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "cloudtoolbox",
   "pricing": "Free",
   "license": "MIT",
   "homepage": "https://cloudtoolbox.tech",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sinanartun/cloudtoolbox"
+    "url": "https://github.com/sinanartun/awstoolbox"
   },
   "engines": {
     "vscode": "^1.86.0"

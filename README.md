@@ -1,5 +1,5 @@
 
-# ![aws_toolbox_36](https://i.imgur.com/pwVxlOD.png) AWS Toolbox: Real-time AWS Resource Monitoring
+#  AWS Toolbox: Open-source Real-time AWS Resource Monitoring
 
 AWS Toolbox is an innovative, open-source Visual Studio Code extension designed to enable developers and cloud engineers to manage and interact with AWS services directly within their editor. It offers a streamlined workflow for AWS resource management, making it an indispensable tool for enhancing AWS operations within VS Code.
 
